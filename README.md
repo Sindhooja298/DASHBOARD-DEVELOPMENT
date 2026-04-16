@@ -19,3 +19,7 @@ The dataset is first loaded into Power BI, and different charts are created to a
 In addition to these visuals, a slicer is added to filter the data based on specific categories like gender or school. This makes the dashboard interactive and allows users to explore the data easily.
 
 Overall, this dashboard helps in identifying patterns and insights in student performance and makes data analysis more clear and effective.
+
+OUTPUT:
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/abbcb83a-bcbe-49cb-9bd9-dd60dbacfb06" />
